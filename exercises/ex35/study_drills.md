@@ -8,7 +8,7 @@ The truth is I am bad at spellings, and also the only code error I found is the
 one I'll mention in problem 5.
 
 ### Problem 4
-Added more to game checkout `ex35_game_by_rj.py`.
+Added more to game, checkout `game_extended.py`.
 
 ### Problem 5
 In gold room with getting number is that it chekcs if 0 or 1 are in the input
